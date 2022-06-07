@@ -11,7 +11,9 @@ sites:
     url: https://www.google.com/
   - name: Pleague
     url: https://pleagueofficial.com/
-   - name: Google(fake)
+  - name: Dictionary
+    url: https://dictionary.cambridge.org/zht/
+  - name: Google(fake)
     url: https://www.googlehaha.com/
 
 status-website:
