@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 89,
-    "timeWeek": 142,
+    "timeWeek": 153,
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 309,
     "timeDay": 206,
-    "timeWeek": 309,
+    "timeWeek": 324,
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 68,
-    "timeWeek": 106,
+    "timeWeek": 114,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "https://pleagueofficial.com/",
     "icon": "https://favicons.githubusercontent.com/pleagueofficial.com",
     "slug": "pleague",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 1020,
-    "timeWeek": 990,
-    "timeMonth": 990,
-    "timeYear": 990,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 900,
+    "timeDay": 645,
+    "timeWeek": 853,
+    "timeMonth": 900,
+    "timeYear": 900,
+    "dailyMinutesDown": {
+      "2022-06-14": 1
+    }
   },
   {
     "name": "Dictionary",
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 493,
-    "timeWeek": 564,
+    "timeWeek": 580,
     "timeMonth": 564,
     "timeYear": 564,
     "dailyMinutesDown": {}
