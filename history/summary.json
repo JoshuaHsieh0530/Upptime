@@ -58,19 +58,19 @@
     "url": "https://pleagueofficial.com/",
     "icon": "https://favicons.githubusercontent.com/pleagueofficial.com",
     "slug": "pleague",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 900,
-    "timeDay": 645,
-    "timeWeek": 853,
-    "timeMonth": 900,
-    "timeYear": 900,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 946,
+    "timeDay": 867,
+    "timeWeek": 910,
+    "timeMonth": 946,
+    "timeYear": 946,
     "dailyMinutesDown": {
-      "2022-06-14": 1
+      "2022-06-14": 14
     }
   },
   {
