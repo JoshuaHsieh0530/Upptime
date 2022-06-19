@@ -76,18 +76,20 @@
     "url": "https://dictionary.cambridge.org/zht/",
     "icon": "https://favicons.githubusercontent.com/dictionary.cambridge.org",
     "slug": "dictionary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 288,
-    "timeWeek": 427,
-    "timeMonth": 506,
-    "timeYear": 506,
-    "dailyMinutesDown": {}
+    "time": 495,
+    "timeDay": 320,
+    "timeWeek": 418,
+    "timeMonth": 495,
+    "timeYear": 495,
+    "dailyMinutesDown": {
+      "2022-06-19": 1
+    }
   },
   {
     "name": "Google(fake)",
