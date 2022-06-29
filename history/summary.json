@@ -58,18 +58,20 @@
     "url": "https://pleagueofficial.com/",
     "icon": "https://favicons.githubusercontent.com/pleagueofficial.com",
     "slug": "pleague",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 889,
-    "timeWeek": 995,
-    "timeMonth": 976,
-    "timeYear": 976,
-    "dailyMinutesDown": {}
+    "time": 943,
+    "timeDay": 479,
+    "timeWeek": 879,
+    "timeMonth": 943,
+    "timeYear": 943,
+    "dailyMinutesDown": {
+      "2022-06-29": 1
+    }
   },
   {
     "name": "Dictionary",
