@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/pleagueofficial.com",
     "slug": "pleague",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.69%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 890,
     "timeDay": 515,
     "timeWeek": 757,
     "timeMonth": 890,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2022-06-29": 116
+      "2022-06-29": 102
     }
   },
   {
